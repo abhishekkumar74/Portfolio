@@ -79,4 +79,4 @@ modern-portfolio-website/
 
 ---
 
-**Made with ❤️ by [Abhishek kumar]**
+**Made with by [Abhishek kumar]**
